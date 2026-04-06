@@ -4,8 +4,9 @@
 **Affiliations:**  
 ¹ Department of Physics, DSB Campus, Kumaun University, Nainital, Uttarakhand, India  
 ² Applied Optics & Spectroscopy Laboratory, Department of Physics, SSJ University Campus, Almora, Uttarakhand, India  
-**Correspondence:** bisht.nandan@gmail.com
-**Author: simanshukumar@gmail.com
+**Corresponding authors:**  
+bisht.nandan@gmail.com  
+simanshukumar@gmail.com
 ---
 
 ## Overview
