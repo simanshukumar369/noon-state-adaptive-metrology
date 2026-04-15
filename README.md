@@ -116,15 +116,16 @@ Mode 1: |r⟩ → R(d_s) ─┘                                     → N₂
 
 ## Citation
 
-If you use this code, please cite:
+If you use this code or the paper, please cite:
 
 ```bibtex
 @article{kumar2026adaptive,
-  title   = {Quantum-Enhanced Single-Parameter Phase Estimation with Adaptive NOON States},
+  title   = {Quantum-Enhanced Single-Parameter Phase Estimation 
+             with Adaptive NOON States},
   author  = {Kumar, Simanshu and Bisht, Nandan S},
   journal = {Preprint},
   year    = {2026},
-  note    = {arXiv:XXXX.XXXXX [quant-ph]}
+  note    = {arXiv:2604.12323 [quant-ph]}
 }
 ```
 
