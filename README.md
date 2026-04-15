@@ -104,7 +104,7 @@ Typical runtimes:
 
 ## Circuit Architecture
 
-![Adaptive NOON-state circuit](fig1_circuit.pdf)
+![Adaptive NOON-state circuit](fig1_circuit.png)
 
 **8 trainable parameters:** `r`, `log γ`, `d_c`, `d_s`, `θ₁`, `φ₁`, `θ₂`, `φ₂`  
 **Fixed parameter:** `φ_est` (scanned to produce coincidence fringes)  
