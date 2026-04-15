@@ -102,14 +102,9 @@ Typical runtimes:
 
 ---
 
-## Circuit architecture
+## Circuit Architecture
 
-```
-Mode 0: |α⟩ → R(d_c) ─┐
-                        ├─ BS(θ₁,φ₁) → R(φ_est) → BS(θ₂,φ₂) → N₁
-Mode 1: |r⟩ → R(d_s) ─┘                                     → N₂
-```
-
+![Adaptive NOON-state circuit](fig1_circuit.pdf)
 
 **8 trainable parameters:** `r`, `log γ`, `d_c`, `d_s`, `θ₁`, `φ₁`, `θ₂`, `φ₂`  
 **Fixed parameter:** `φ_est` (scanned to produce coincidence fringes)  
