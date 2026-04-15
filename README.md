@@ -1,10 +1,10 @@
 # Quantum-Enhanced Single-Parameter Phase Estimation with Adaptive NOON States
 
-**Authors:** Simanshu Kumar¹,² and Nandan S. Bisht¹  
+**Authors:** Simanshu Kumar<sup>1,2</sup> and Nandan S. Bisht<sup>1</sup>
 
 **Affiliations:**  
-¹ Department of Physics, DSB Campus, Kumaun University, Nainital, Uttarakhand, India – 263001  
-² Applied Optics & Spectroscopy Laboratory, Department of Physics, SSJ University Campus, Almora, Uttarakhand, India – 263601  
+<sup>1</sup> Department of Physics, DSB Campus, Kumaun University, Nainital, Uttarakhand, India – 263001  
+<sup>2</sup> Applied Optics & Spectroscopy Laboratory, Department of Physics, SSJ University Campus, Almora, Uttarakhand, India – 263601
 
 **Corresponding authors:**  
 bisht.nandan@gmail.com  
@@ -108,11 +108,12 @@ Typical runtimes:
 Mode 0: |α⟩ → R(d_c) ─┐
                         ├─ BS(θ₁,φ₁) → R(φ_est) → BS(θ₂,φ₂) → N₁
 Mode 1: |r⟩ → R(d_s) ─┘                                     → N₂
-```s
+```
 
-**8 trainable parameters:** r, log γ, d_c, d_s, θ₁, φ₁, θ₂, φ₂  
-**Fixed:** φ_est (scanned to produce coincidence fringes)  
-**Detection:** coincidence patterns (N₁, N₂) with N₁+N₂ = N
+
+**8 trainable parameters:** `r`, `log γ`, `d_c`, `d_s`, `θ₁`, `φ₁`, `θ₂`, `φ₂`  
+**Fixed parameter:** `φ_est` (scanned to produce coincidence fringes)  
+**Detection:** coincidence patterns `(N₁, N₂)` with `N₁ + N₂ = N`
 
 ---
 
