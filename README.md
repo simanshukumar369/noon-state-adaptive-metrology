@@ -1,9 +1,10 @@
 # Quantum-Enhanced Single-Parameter Phase Estimation with Adaptive NOON States
 
-**Authors:** Simanshu Kumar¹·² and Nandan S Bisht¹  
+**Authors:** Simanshu Kumar$^{1,2}$ and Nandan S. Bisht$^{1}$  
 **Affiliations:**  
-¹ Department of Physics, DSB Campus, Kumaun University, Nainital, Uttarakhand, India  
-² Applied Optics & Spectroscopy Laboratory, Department of Physics, SSJ University Campus, Almora, Uttarakhand, India  
+¹ Department of Physics, DSB Campus, Kumaun University, Nainital, Uttarakhand, India – 263001  
+² Applied Optics & Spectroscopy Laboratory, Department of Physics, SSJ University Campus, Almora, Uttarakhand, India – 263601  
+
 **Corresponding authors:**  
 bisht.nandan@gmail.com  
 simanshukumar@gmail.com
