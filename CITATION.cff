@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Quantum-Enhanced Single-Parameter Phase Estimation with Adaptive NOON States"
+version: v1.0.0
+date-released: 2026-04-14
+authors:
+  - family-names: Kumar
+    given-names: Simanshu
+    affiliation: "Department of Physics, DSB Campus, Kumaun University, Nainital, Uttarakhand, India"
+    email: simanshukumar@gmail.com
+  - family-names: Bisht
+    given-names: Nandan S
+    affiliation: "Department of Physics, DSB Campus, Kumaun University, Nainital, Uttarakhand, India"
+    email: bisht.nandan@gmail.com
+repository-code: "https://github.com/simanshukumar369/noon-state-adaptive-metrology"
+url: "https://arxiv.org/abs/2604.12323"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Quantum-Enhanced Single-Parameter Phase Estimation with Adaptive NOON States"
+  authors:
+    - family-names: Kumar
+      given-names: Simanshu
+    - family-names: Bisht
+      given-names: Nandan S
+  year: 2026
+  url: "https://arxiv.org/abs/2604.12323"
+  journal: "arXiv preprint"
+  identifiers:
+    - type: other
+      value: "arXiv:2604.12323"
+      description: "arXiv preprint"
+keywords:
+  - quantum metrology
+  - NOON states
+  - Fisher information
+  - Strawberry Fields
+  - variational quantum sensing
+  - Heisenberg limit
+  - adaptive sensing
