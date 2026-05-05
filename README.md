@@ -18,6 +18,7 @@ This repository contains all simulation codes for the paper:
 > *Quantum-Enhanced Single-Parameter Phase Estimation with Adaptive NOON States*  
 > Simanshu Kumar and Nandan S Bisht  
 **Preprint:** [arXiv:2604.12323](https://arxiv.org/abs/2604.12323) [quant-ph]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20041907.svg)](https://doi.org/10.5281/zenodo.20041907)
 
 We present an end-to-end differentiable photonic circuit that learns optimal
 parameters for NOON-state generation by maximising the classical Fisher
