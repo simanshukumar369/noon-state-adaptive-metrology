@@ -59,8 +59,9 @@ pip install -r requirements.txt
 ```bash
 conda env create -f environment.yml
 conda activate noon-sim
-### Verify installation
 ```
+### Verify installation
+
 ```bash
 python -c "import strawberryfields; import tensorflow; print('OK')"
 ```
