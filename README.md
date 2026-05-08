@@ -54,6 +54,15 @@ conda create -n noon-sim python=3.10
 conda activate noon-sim
 pip install -r requirements.txt
 ```
+
+### Option 1: pip (recommended – fastest)
+
+```bash
+conda create -n noon-sim python=3.10
+conda activate noon-sim
+pip install -r requirements.txt
+
+```
 ### Option 2: conda 
 conda env create -f environment.yml
 conda activate noon-sim
@@ -61,6 +70,7 @@ conda activate noon-sim
 ```bash
 python -c "import strawberryfields; import tensorflow; print('OK')"
 ```
+
 ---
 
 ## Output files
