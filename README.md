@@ -53,7 +53,10 @@ information (CFI) across coincidence channels for N = 2, 3, 4, 5.
 conda create -n noon-sim python=3.10
 conda activate noon-sim
 pip install -r requirements.txt
-
+```
+### Option 2: conda 
+conda env create -f environment.yml
+conda activate noon-sim
 ### Verify installation
 ```bash
 python -c "import strawberryfields; import tensorflow; print('OK')"
